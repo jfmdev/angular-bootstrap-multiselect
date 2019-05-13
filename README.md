@@ -9,10 +9,18 @@ Screenshot:
 
 Originally created by Amitava Saha (https://github.com/amitava82/angular-multiselect)
 
-### Installation via Bower:
+### Installation via Bower/NPM:
 
 ```
 $ bower install angular-bootstrap-multiselect --save
+```
+
+```
+$ npm install angularjs-bootstrap-multiselect --save
+```
+
+```
+$ yarn add angularjs-bootstrap-multiselect
 ```
 
 ### Usage:
